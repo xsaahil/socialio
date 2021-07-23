@@ -13,12 +13,16 @@
     "@chakra-ui/theme-tools": "1.1.2",
     "@emotion/react": "11.1.5",
     "@emotion/styled": "11.1.5",
+    "@urql/exchange-graphcache": "^4.2.1",
     "formik": "^2.2.9",
     "framer-motion": "^4.0.3",
     "graphql": "^15.5.1",
+    "isomorphic-unfetch": "^3.1.0",
     "next": "latest",
+    "next-urql": "^3.1.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-is": "^17.0.2",
     "urql": "^2.0.4"
   },
   "devDependencies": {
@@ -29,6 +33,7 @@
     "@types/node": "^14.6.0",
     "@types/react": "^17.0.3",
     "@types/react-dom": "^17.0.3",
+    "@types/react-is": "^17.0.2",
     "typescript": "4.3.2"
   },
   "license": "MIT"
